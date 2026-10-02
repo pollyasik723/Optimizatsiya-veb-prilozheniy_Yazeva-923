@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://newsportal.ru/sitemap_index.xml
+Sitemap: https://pollyasik723.github.io/Optimizatsiya-veb-prilozheniy_Yazeva-923/sitemap_index.xml
