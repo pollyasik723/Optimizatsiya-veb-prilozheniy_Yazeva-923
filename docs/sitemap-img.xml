@@ -4,22 +4,22 @@
 
   <!-- Изображения для главной страницы -->
   <url>
-    <loc>https://newsportal.ru/</loc>
+    <loc>https://pollyasik723.github.io/Optimizatsiya-veb-prilozheniy_Yazeva-923/</loc>
     <image:image>
-      <image:loc>https://newsportal.ru/images/logo.png</image:loc>
+      <image:loc>https://pollyasik723.github.io/Optimizatsiya-veb-prilozheniy_Yazeva-923/images/logo.png</image:loc>
       <image:title>Логотип новостного портала</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://newsportal.ru/images/banner-main.jpg</image:loc>
+      <image:loc>https://pollyasik723.github.io/Optimizatsiya-veb-prilozheniy_Yazeva-923/images/banner-main.jpg</image:loc>
       <image:title>Топ-новость дня</image:title>
     </image:image>
   </url>
 
   <!-- Изображения для статьи в рубрике "Политика" -->
   <url>
-    <loc>https://newsportal.ru/politika/article-1.html</loc>
+    <loc>https://pollyasik723.github.io/Optimizatsiya-veb-prilozheniy_Yazeva-923/politika/article-1.html</loc>
     <image:image>
-      <image:loc>https://newsportal.ru/images/politika-1.jpg</image:loc>
+      <image:loc>https://pollyasik723.github.io/Optimizatsiya-veb-prilozheniy_Yazeva-923/images/politika-1.jpg</image:loc>
       <image:title>Иллюстрация к новости о политике</image:title>
     </image:image>
   </url>
